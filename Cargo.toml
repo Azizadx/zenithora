@@ -1,8 +1,10 @@
 [package]
 name = "zenithora"
 version = "0.1.0"
+author = ["azizadx","work@azizadx.me"]
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+bracket-lib = "~0.8.1"
