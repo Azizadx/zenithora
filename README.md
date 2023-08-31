@@ -1,2 +1,3 @@
-# zenithora
-Embark on a pixelated journey into the heart of "Zenithora: Echoes of the Lost Amulet," a captivating 2D Dungeon Crawler that immerses you in a world of unpredictable depths. As an intrepid adventurer, you step into ever-shifting corridors that come alive in randomly generated dungeons.
+# Zenithora
+
+🌟 Explore the depths of "Zenithora: Echoes of the Lost Amulet," a 2D Dungeon Crawler that plunges you into randomly generated dungeons. 🗝️ Take control of an adventurer and navigate the shifting corridors, battling monsters 🦠 and collecting power-ups 💥. Your goal: discover the Amulet of Yala, known as the "Yet Another Lost Amulet," and emerge victorious. 🏆 Will you conquer the challenges 🗡️ and claim the amulet's power? 💎
