@@ -61,10 +61,10 @@ impl MapBuilder {
             let new = room.center();
             if rng.range(0, 2) == 1 {
                 self.apply_horizontal_tunnel(prv.x, new.x, prv.y);
-                self.apply_vertical_tunnel(prv.y, new.y, prv.x);
+                self.apply_vertical_tunnel(prv.y, new.y, new.x);
             } else {
                 self.apply_vertical_tunnel(prv.y, new.y, prv.x);
-                self.apply_horizontal_tunnel(prv.x, new.x, prv.y);
+                self.apply_horizontal_tunnel(prv.x, new.x, new.y);
             }
         }
     }
